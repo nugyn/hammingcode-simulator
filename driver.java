@@ -1,8 +1,6 @@
-/* Member 1: Name: Duy Linh Nguyen, student ID: s3429599
- * Member 2: Name: Lam Hoang Tran, student ID: s3714110
- * Please note:
- * This program is slightly different than what the Spec requires
- * Instead of turning student ID number into binary by switching odd numbers into 1, even numbers into 0
+/*
+ 
+ * Turns number into binary by switching odd numbers into 1, even numbers into 0
  * This program simply asks for a integer number
  * That number will be converted into binary
  * And the binary will be encoded to Hamming code (without SECDED)
